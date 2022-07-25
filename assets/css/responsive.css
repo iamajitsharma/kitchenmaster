@@ -1,0 +1,67 @@
+@media screen and (max-width:420px) {
+    .navbar-brand{
+        margin-left:20px;
+    }
+    #home-bg{
+        height: 75vh;
+        padding-top: 50px;
+    }
+    .home-caption h1{
+        font-size: 30px;
+        text-align: center;
+    }
+    .home-caption p{
+        text-align: center;
+        font-size: 16px;
+    }
+    .heading-title{
+        font-size: 25px;
+    }
+
+       .home-feature{
+        padding:20px 5px 30px 5px;
+    }
+    .feature-item{
+        flex:40%;
+    }
+    .feature-item img{
+    height: 120px;
+    }
+    .order-btn{
+        padding:6px 12px;
+    }
+    #footer{
+        height:300px;
+    }
+    .copyright{
+        position: absolute;
+        bottom:0;
+        width:100%;
+    }
+    .ft-widget{
+        display: none;
+    }
+
+    /* //Order Now */
+    #contact{
+        padding:5px;
+    }
+    .contact-text h1{
+        text-align: center;
+        padding:2px;
+    }
+    .contact-text ul{
+        padding:0;
+    }
+
+/* About user */
+
+.our-team{
+    width: 100%;
+}
+.boxes{
+  width: 100%;
+}
+
+
+}
