@@ -7,7 +7,7 @@
         padding-top: 50px;
     }
     .home-caption h1{
-        font-size: 30px;
+        font-size: 28px;
         text-align: center;
     }
     .home-caption p{
@@ -18,7 +18,7 @@
         font-size: 25px;
     }
 
-       .home-feature{
+  .home-feature{
         padding:20px 5px 30px 5px;
     }
     .feature-item{
@@ -27,6 +27,13 @@
     .feature-item img{
     height: 120px;
     }
+
+    .feature-item h4{
+        font-size: 15px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 500;
+    }
+
     .order-btn{
         padding:6px 12px;
     }
